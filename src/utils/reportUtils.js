@@ -46,7 +46,7 @@ const getReport = async (mainKey, mainValue, filters) => {
     [mainKey]: mainValue,
     ...filters,
   };
-  console.log(whereClause);
+
   const records = await Product.findAll({ where: whereClause });
   if (records.length === 0) return null;
 
