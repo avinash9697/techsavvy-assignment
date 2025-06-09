@@ -1,0 +1,258 @@
+
+[2025-06-07 16:12:23] ERROR: sample error 
+[2025-06-07 17:20:06] ERROR: Unexpected string in JSON at position 23 | GET /ss
+[2025-06-07 17:41:12] ERROR: Validation failed | POST /users
+[2025-06-07 17:42:08] ERROR: Validation failed | POST /users
+[2025-06-07 17:52:39] ERROR: err is not defined | POST /users
+[2025-06-07 17:52:52] ERROR: err is not defined | POST /users
+[2025-06-07 17:54:52] ERROR: SQLITE_BUSY: database is locked | POST /users
+[2025-06-07 17:57:06] ERROR: SQLITE_BUSY: database is locked | POST /users
+[2025-06-07 17:58:25] ERROR: Validation error | POST /users
+[2025-06-07 17:58:37] ERROR: Validation error | POST /users
+[2025-06-07 18:09:42] ERROR: Validation error | POST /users
+[2025-06-07 18:19:29] ERROR: Validation failed | POST /users
+[2025-06-07 18:26:07] ERROR: Validation failed | POST /users
+[2025-06-07 18:31:23] ERROR: Validation failed | POST /users
+[2025-06-07 18:37:51] ERROR: Validation failed | POST /users
+[2025-06-07 18:38:02] ERROR: Unexpected token } in JSON at position 51 | POST /users
+[2025-06-07 18:38:18] ERROR: Validation failed | POST /users
+[2025-06-07 18:38:39] ERROR: Validation failed | POST /users
+[2025-06-07 18:38:49] ERROR: Validation failed | POST /users
+[2025-06-07 19:54:01] ERROR: WHERE parameter "email" has invalid "undefined" value | PUT /users/5
+[2025-06-07 19:54:47] ERROR: WHERE parameter "email" has invalid "undefined" value | PUT /users/5
+[2025-06-07 21:08:33] ERROR: Validation error happend
+[2025-06-07 21:08:44] ERROR: Unexpected string in JSON at position 27 | POST /login
+[2025-06-07 21:08:49] ERROR: secretOrPrivateKey must have a value | POST /login
+[2025-06-07 21:10:27] ERROR: secretOrPrivateKey must have a value | POST /login
+[2025-06-07 21:13:25] ERROR: secretOrPrivateKey must have a value | POST /login
+[2025-06-07 23:31:30] ERROR: Unexpected end of form | POST /upload-csv
+[2025-06-07 23:31:49] ERROR: Unexpected end of form | POST /upload-csv
+[2025-06-07 23:37:09] ERROR: ENOENT: no such file or directory, open 'C:\Users\Dell\Desktop\ecommerce-campaign-reporting\uploads\file-1749319629390-213272059.csv' | POST /upload-csv
+[2025-06-08 13:57:31] ERROR: fieldMappings is not defined | POST /products/report/campaign
+[2025-06-08 13:58:17] ERROR: userFilters is not defined | POST /products/report/campaign
+[2025-06-08 14:39:40] ERROR: SQLITE_ERROR: no such column: Product.undefined | POST /products/report/campaign
+[2025-06-08 14:39:56] ERROR: SQLITE_ERROR: no such column: Product.undefined | POST /products/report/campaign
+[2025-06-08 14:40:04] ERROR: SQLITE_ERROR: no such column: Product.undefined | POST /products/report/campaign
+[2025-06-08 14:40:16] ERROR: SQLITE_ERROR: no such column: Product.undefined | POST /products/report/campaign
+[2025-06-08 14:42:06] ERROR: SQLITE_ERROR: no such column: Product.undefined | POST /products/report/campaign
+[2025-06-08 14:42:28] ERROR: SQLITE_ERROR: no such column: Product.undefined | POST /products/report/campaign
+[2025-06-08 14:44:23] ERROR: SQLITE_ERROR: no such column: Product.undefined | POST /products/report/campaign
+[2025-06-08 14:44:53] ERROR: SQLITE_ERROR: no such column: Product.undefined | POST /products/report/campaign
+[2025-06-08 14:46:02] ERROR: SQLITE_ERROR: no such column: Product.undefined | POST /products/report/campaign
+[2025-06-08 14:48:18] ERROR: SQLITE_ERROR: no such column: Product.undefined | POST /products/report/campaign
+[2025-06-08 14:48:52] ERROR: SQLITE_ERROR: no such column: Product.undefined | POST /products/report/campaign
+[2025-06-08 14:51:23] ERROR: SQLITE_ERROR: no such column: Product.undefined | POST /products/report/campaign
+[2025-06-08 14:51:51] ERROR: SQLITE_ERROR: no such column: Product.undefined | POST /products/report/campaign
+[2025-06-08 14:55:03] ERROR: SQLITE_ERROR: no such column: Product.undefined | POST /products/report/campaign
+[2025-06-08 14:56:35] ERROR: SQLITE_ERROR: no such column: Product.undefined | POST /products/report/campaign
+[2025-06-08 19:04:54] ERROR: Validation error happend
+[2025-06-08 19:06:31] ERROR: Validation error happend
+[2025-06-08 19:08:20] ERROR: Validation error happend
+[2025-06-08 19:17:15] ERROR: Validation error happend
+[2025-06-08 19:19:40] ERROR: Validation error happend
+[2025-06-08 20:05:36] ERROR: Validation error happend
+[2025-06-08 21:13:11] ERROR: Validation error happend
+[2025-06-08 21:28:13] ERROR: Validation error happend
+[2025-06-08 21:29:17] ERROR: Validation error happend
+[2025-06-08 21:31:22] ERROR: Validation error happend
+[2025-06-08 21:31:22] ERROR: Validation error happend
+[2025-06-08 21:36:35] ERROR: Validation error happend
+[2025-06-08 21:37:05] ERROR: Validation error happend
+[2025-06-08 21:37:45] ERROR: Validation error happend
+[2025-06-08 21:37:45] ERROR: Validation error happend
+[2025-06-08 21:38:16] ERROR: Validation error happend
+[2025-06-08 21:38:17] ERROR: Validation error happend
+[2025-06-08 21:39:06] ERROR: Validation error happend
+[2025-06-08 21:39:06] ERROR: Validation error happend
+[2025-06-08 21:39:24] ERROR: Validation error happend
+[2025-06-08 21:39:24] ERROR: Validation error happend
+[2025-06-08 21:42:01] ERROR: Validation error happend
+[2025-06-08 21:42:01] ERROR: Validation error happend
+[2025-06-08 21:48:30] ERROR: Validation error happend
+[2025-06-08 21:48:30] ERROR: Validation error happend
+[2025-06-08 21:49:05] ERROR: Validation error happend
+[2025-06-08 21:49:05] ERROR: Validation error happend
+[2025-06-08 21:49:38] ERROR: Validation error happend
+[2025-06-08 21:49:38] ERROR: Validation error happend
+[2025-06-08 21:50:11] ERROR: Validation error happend
+[2025-06-08 21:50:12] ERROR: Validation error happend
+[2025-06-08 21:53:21] ERROR: Validation error happend
+[2025-06-08 21:53:21] ERROR: Validation error happend
+[2025-06-08 21:54:16] ERROR: Validation error happend
+[2025-06-08 21:54:16] ERROR: Validation error happend
+[2025-06-08 21:54:42] ERROR: Validation error happend
+[2025-06-08 21:54:42] ERROR: Validation error happend
+[2025-06-08 22:29:40] ERROR: Validation error happend
+[2025-06-08 22:29:58] ERROR: Validation error happend
+[2025-06-08 22:29:59] ERROR: Validation error happend
+[2025-06-08 22:34:49] ERROR: Validation error happend
+[2025-06-08 22:34:50] ERROR: Validation error happend
+[2025-06-08 22:41:16] ERROR: Validation error happend
+[2025-06-08 22:41:17] ERROR: Validation error happend
+[2025-06-08 22:44:15] ERROR: Validation error happend
+[2025-06-08 22:44:16] ERROR: Validation error happend
+[2025-06-08 22:45:47] ERROR: Validation error happend
+[2025-06-08 22:45:47] ERROR: Validation error happend
+[2025-06-08 22:47:42] ERROR: Validation error happend
+[2025-06-08 22:47:42] ERROR: Validation error happend
+[2025-06-08 23:28:12] ERROR: Validation error happend
+[2025-06-08 23:28:54] ERROR: Validation error happend
+[2025-06-08 23:28:55] ERROR: Validation error happend
+[2025-06-08 23:30:24] ERROR: Validation error happend
+[2025-06-08 23:30:24] ERROR: Validation error happend
+[2025-06-08 23:32:07] ERROR: Validation error happend
+[2025-06-08 23:32:08] ERROR: Validation error happend
+[2025-06-08 23:36:10] ERROR: Validation error happend
+[2025-06-08 23:36:11] ERROR: Validation error happend
+[2025-06-08 23:36:11] ERROR: Validation error happend
+[2025-06-08 23:38:48] ERROR: Validation error happend
+[2025-06-08 23:38:49] ERROR: Validation error happend
+[2025-06-08 23:38:49] ERROR: Validation error happend
+[2025-06-08 23:39:56] ERROR: Validation error happend
+[2025-06-08 23:39:57] ERROR: Validation error happend
+[2025-06-08 23:39:57] ERROR: Validation error happend
+[2025-06-08 23:41:33] ERROR: Validation error happend
+[2025-06-08 23:41:33] ERROR: Validation error happend
+[2025-06-08 23:41:33] ERROR: Validation error happend
+[2025-06-08 23:41:34] ERROR: Cannot destructure property 'username' of 'req.body' as it is undefined. | PUT /users/22
+[2025-06-08 23:42:49] ERROR: Validation error happend
+[2025-06-08 23:42:49] ERROR: Validation error happend
+[2025-06-08 23:42:49] ERROR: Validation error happend
+[2025-06-08 23:50:30] ERROR: Validation error happend
+[2025-06-08 23:50:31] ERROR: Validation error happend
+[2025-06-08 23:50:31] ERROR: Validation error happend
+[2025-06-08 23:53:08] ERROR: Validation error happend
+[2025-06-08 23:53:08] ERROR: Validation error happend
+[2025-06-08 23:53:09] ERROR: Validation error happend
+[2025-06-08 23:53:44] ERROR: Validation error happend
+[2025-06-08 23:53:44] ERROR: Validation error happend
+[2025-06-08 23:53:44] ERROR: Validation error happend
+[2025-06-08 23:56:10] ERROR: Validation error happend
+[2025-06-08 23:56:11] ERROR: Validation error happend
+[2025-06-08 23:56:11] ERROR: Validation error happend
+[2025-06-08 23:59:11] ERROR: Validation error happend
+[2025-06-08 23:59:37] ERROR: Validation error happend
+[2025-06-08 23:59:38] ERROR: Validation error happend
+[2025-06-08 23:59:38] ERROR: Validation error happend
+[2025-06-09 00:00:51] ERROR: Validation error happend
+[2025-06-09 00:00:51] ERROR: Validation error happend
+[2025-06-09 00:00:52] ERROR: Validation error happend
+[2025-06-09 00:03:01] ERROR: Validation error happend
+[2025-06-09 00:03:01] ERROR: Validation error happend
+[2025-06-09 00:03:02] ERROR: Validation error happend
+[2025-06-09 00:03:02] ERROR: user.destroy is not a function | DELETE /users/1
+[2025-06-09 00:05:48] ERROR: Validation error happend
+[2025-06-09 00:05:48] ERROR: Validation error happend
+[2025-06-09 00:05:48] ERROR: Validation error happend
+[2025-06-09 00:09:25] ERROR: Validation error happend
+[2025-06-09 00:09:25] ERROR: Validation error happend
+[2025-06-09 00:09:25] ERROR: Validation error happend
+[2025-06-09 11:20:07] ERROR: Validation error happend
+[2025-06-09 11:20:07] ERROR: Validation error happend
+[2025-06-09 11:20:07] ERROR: Validation error happend
+[2025-06-09 11:21:02] ERROR: Validation error happend
+[2025-06-09 11:21:02] ERROR: Validation error happend
+[2025-06-09 11:21:02] ERROR: Validation error happend
+[2025-06-09 11:26:05] ERROR: Validation error happend
+[2025-06-09 11:26:05] ERROR: Validation error happend
+[2025-06-09 11:26:05] ERROR: Validation error happend
+[2025-06-09 11:27:32] ERROR: Validation error happend
+[2025-06-09 11:27:32] ERROR: Validation error happend
+[2025-06-09 11:27:33] ERROR: Validation error happend
+[2025-06-09 11:29:45] ERROR: Validation error happend
+[2025-06-09 11:29:45] ERROR: Validation error happend
+[2025-06-09 11:29:46] ERROR: Validation error happend
+[2025-06-09 11:37:40] ERROR: Validation error happend
+[2025-06-09 11:37:40] ERROR: Validation error happend
+[2025-06-09 11:37:41] ERROR: Validation error happend
+[2025-06-09 11:45:01] ERROR: Validation error happend
+[2025-06-09 11:45:01] ERROR: Validation error happend
+[2025-06-09 11:45:01] ERROR: Validation error happend
+[2025-06-09 11:51:59] ERROR: Validation error happend
+[2025-06-09 11:51:59] ERROR: Validation error happend
+[2025-06-09 11:51:59] ERROR: Validation error happend
+[2025-06-09 11:56:40] ERROR: Validation error happend
+[2025-06-09 11:56:40] ERROR: Validation error happend
+[2025-06-09 11:56:40] ERROR: Validation error happend
+[2025-06-09 12:25:53] ERROR: Validation error happend
+[2025-06-09 12:25:53] ERROR: Validation error happend
+[2025-06-09 12:25:53] ERROR: Validation error happend
+[2025-06-09 12:27:40] ERROR: Validation error happend
+[2025-06-09 12:27:40] ERROR: Validation error happend
+[2025-06-09 12:27:40] ERROR: Validation error happend
+[2025-06-09 12:31:03] ERROR: Validation error happend
+[2025-06-09 12:31:03] ERROR: Validation error happend
+[2025-06-09 12:31:03] ERROR: Validation error happend
+[2025-06-09 12:34:15] ERROR: Validation error happend
+[2025-06-09 12:34:15] ERROR: Validation error happend
+[2025-06-09 12:34:15] ERROR: Validation error happend
+[2025-06-09 13:06:36] ERROR: Validation error happend
+[2025-06-09 13:06:36] ERROR: Validation error happend
+[2025-06-09 13:06:37] ERROR: Validation error happend
+[2025-06-09 13:07:27] ERROR: Validation error happend
+[2025-06-09 13:07:27] ERROR: Validation error happend
+[2025-06-09 13:07:28] ERROR: Validation error happend
+[2025-06-09 13:08:31] ERROR: Validation error happend
+[2025-06-09 13:08:32] ERROR: Validation error happend
+[2025-06-09 13:08:33] ERROR: Validation error happend
+[2025-06-09 13:51:15] ERROR: Validation error happend
+[2025-06-09 13:51:15] ERROR: Validation error happend
+[2025-06-09 13:51:16] ERROR: Validation error happend
+[2025-06-09 13:54:47] ERROR: Validation error happend
+[2025-06-09 13:54:48] ERROR: Validation error happend
+[2025-06-09 13:54:48] ERROR: Cannot read properties of undefined (reading 'Campaign Name') | POST /products/report/campaign
+[2025-06-09 13:54:49] ERROR: Validation error happend
+[2025-06-09 13:59:12] ERROR: Validation error happend
+[2025-06-09 13:59:13] ERROR: Validation error happend
+[2025-06-09 13:59:13] ERROR: Cannot read properties of undefined (reading 'Product Name') | POST /products/report/ProductName
+[2025-06-09 13:59:14] ERROR: Validation error happend
+[2025-06-09 13:59:48] ERROR: Validation error happend
+[2025-06-09 13:59:49] ERROR: Validation error happend
+[2025-06-09 13:59:49] ERROR: Cannot read properties of undefined (reading 'Product Name') | POST /products/report/productName
+[2025-06-09 13:59:50] ERROR: Validation error happend
+[2025-06-09 14:02:40] ERROR: Cannot read properties of undefined (reading 'Product Name') | POST /products/report/productName
+[2025-06-09 14:02:40] ERROR: Validation error happend
+[2025-06-09 14:02:40] ERROR: Validation error happend
+[2025-06-09 14:02:41] ERROR: Validation error happend
+[2025-06-09 14:06:33] ERROR: Cannot read properties of undefined (reading 'Product Name') | POST /products/report/productName
+[2025-06-09 14:06:33] ERROR: Validation error happend
+[2025-06-09 14:06:34] ERROR: Validation error happend
+[2025-06-09 14:06:36] ERROR: Validation error happend
+[2025-06-09 14:08:50] ERROR: Cannot read properties of undefined (reading 'Product Name') | POST /products/report/productName
+[2025-06-09 14:10:55] ERROR: Validation error happend
+[2025-06-09 14:10:55] ERROR: Validation error happend
+[2025-06-09 14:10:56] ERROR: Cannot read properties of undefined (reading 'Campaign Name') | POST /products/report/campaign
+[2025-06-09 14:10:57] ERROR: Validation error happend
+[2025-06-09 14:13:36] ERROR: Validation error happend
+[2025-06-09 14:13:37] ERROR: Validation error happend
+[2025-06-09 14:13:38] ERROR: Validation error happend
+[2025-06-09 14:14:17] ERROR: Validation error happend
+[2025-06-09 14:14:18] ERROR: Validation error happend
+[2025-06-09 14:14:19] ERROR: Validation error happend
+[2025-06-09 14:19:58] ERROR: Validation error happend
+[2025-06-09 14:19:59] ERROR: Validation error happend
+[2025-06-09 14:20:00] ERROR: Validation error happend
+[2025-06-09 14:21:51] ERROR: Validation error happend
+[2025-06-09 14:21:51] ERROR: Validation error happend
+[2025-06-09 14:21:52] ERROR: Validation error happend
+[2025-06-09 14:23:08] ERROR: Validation error happend
+[2025-06-09 14:23:08] ERROR: Validation error happend
+[2025-06-09 14:23:10] ERROR: Validation error happend
+[2025-06-09 14:23:47] ERROR: Validation error happend
+[2025-06-09 14:23:47] ERROR: Validation error happend
+[2025-06-09 14:23:48] ERROR: Validation error happend
+[2025-06-09 14:28:08] ERROR: Validation error happend
+[2025-06-09 14:28:08] ERROR: Validation error happend
+[2025-06-09 14:28:09] ERROR: Validation error happend
+[2025-06-09 14:32:10] ERROR: Validation error happend
+[2025-06-09 14:32:11] ERROR: Validation error happend
+[2025-06-09 14:32:12] ERROR: Validation error happend
+[2025-06-09 14:34:19] ERROR: Validation error happend
+[2025-06-09 14:34:19] ERROR: Validation error happend
+[2025-06-09 14:34:20] ERROR: Validation error happend
+[2025-06-09 14:38:14] ERROR: Validation error happend
+[2025-06-09 14:38:14] ERROR: Validation error happend
+[2025-06-09 14:38:15] ERROR: Validation error happend
+[2025-06-09 14:41:10] ERROR: Validation error happend
+[2025-06-09 14:41:11] ERROR: Validation error happend
+[2025-06-09 16:28:48] ERROR: Cannot read properties of undefined (reading 'Campaign Name') | POST /products/report/campaign
