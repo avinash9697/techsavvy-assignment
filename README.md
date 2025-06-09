@@ -26,7 +26,7 @@ This is a Node.js Express-based backend application that provides:
 ```bash
 # 1. Clone the repository
 git clone https://github.com/avinash9697/techsavvy-assignment.git
-cd ecommerce-campaign-reporting
+cd techsavvy-assignment
 
 # 2. Install dependencies
 npm install
